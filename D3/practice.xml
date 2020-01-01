@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CUPOY>
+    <Title>課程目錄</Title>
+    <Author>Wei</Author>
+    <Chapters>
+        <Chapter name="01">自動化控制與實驗</Chapter>
+        <Chapter name="02">智慧製造技術</Chapter>
+        <Chapter name="03">自動化機構設計</Chapter>
+        <Chapter name="04">非傳統加工</Chapter>
+        <Chapter name="04">機械設計</Chapter>
+    </Chapters>
+</CUPOY>
